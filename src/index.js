@@ -34,4 +34,4 @@ function countdown(endDate) {
   updateCountdown();
 }
 // set the end date
-countdown(new Date("2023-05-24T24:00:00.000Z"));
+countdown(new Date("2023-05-25T24:00:00.000Z"));
